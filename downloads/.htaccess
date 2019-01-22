@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+# HTID:8143535: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile "/storage/ssd1/910/8304910/public_html/downloads/.htpasswd"
+Require user portfoliodomingos
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:8143535:
+
+# HTID:8143536: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile "/storage/ssd1/910/8304910/public_html/downloads/.htpasswd"
+Require user downloads
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:8143536:
